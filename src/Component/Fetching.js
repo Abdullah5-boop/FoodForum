@@ -5,8 +5,8 @@ import Nav from './Nav';
 const Fetching = () => {
     let list=<>
     <li className=''><Link to='fetching/1'>All</Link></li>
-    <li className=''><Link to='fetching/2'>Sweet</Link></li>
-    <li className=''><Link to='fetching/2'>Spicey</Link></li>
+    {/* <li className=''><Link to='fetching/2'>Sweet</Link></li>
+    <li className=''><Link to='fetching/2'>Spicey</Link></li> */}
     
     </>
     return (
