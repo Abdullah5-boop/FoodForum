@@ -1,0 +1,20 @@
+.cardcontainer{
+    width: 23%;
+    height: 25vh;
+    /* background-color: aqua; */
+
+}
+.footercontainer{
+    font-size: 1.5rem;
+}
+video{
+    width: 70vw;
+    margin-top: 50px;
+}
+button{
+    font-size: 6rem;
+}
+.foodcard{
+    font-size: 22rem;
+
+}
